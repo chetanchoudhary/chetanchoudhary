@@ -6,7 +6,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Go](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go&logoColor=007396)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript&logoColor=007396)
 - 🌐 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![FastAPI](https://img.shields.io/badge/-Fastapi-333333?style=flat&logo=fastapi)
