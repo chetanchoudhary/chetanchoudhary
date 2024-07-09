@@ -31,7 +31,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/chetanchoudhary/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Chetan%20Choudhary-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/chetan-choudhary/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Chetan%20Choudhary-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:chetan.choudhary.office@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chetan.choudhary.office@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
