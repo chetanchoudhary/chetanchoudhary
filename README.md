@@ -1,6 +1,3 @@
-
-<h2> Hey there! I'm Chetan Choudhary.</h2>
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💼 &nbsp; Principal Engineer @ Calsoft
