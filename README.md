@@ -79,7 +79,7 @@ CGPA: 8.6
 
 ## 📊 GitHub Stats
 
-![choudharycodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=choudharycodes&show_icons=true&hide=prs,issues&theme=radical)
+![chetanchoudhary's GitHub stats](https://github-readme-stats.vercel.app/api?username=chetanchoudhary&show_icons=true&hide=prs,issues&theme=radical)
 
 ---
 
