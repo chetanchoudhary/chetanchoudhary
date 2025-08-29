@@ -1,29 +1,95 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chetan Choudhary
-========================================================================================================================================
+# 👋 Hi, I'm CHETAN CHOUDHARY
 
-Full Stack Developer
---------------------
+**Principal Development Engineer**  
+🌏 India (Remote) | 📞 +91 7389517722  
+📧 chetan.choudhary.office@gmail.com  
+🌐 [chetanchoudhary.dev](https://chetanchoudhary.dev) | [LinkedIn](#) | [GitHub](https://github.com/choudharycodes)
 
-Currently working as a Principal Engineer @ Calsoft and contributing to and creating open source projects on the side.
+---
 
-*   🌍  I'm based in India
-*   ✉️  You can contact me at [chetan.choudhary.office@gmail.com](mailto:chetan.choudhary.office@gmail.com)
-*   🧠  I'm currently learning Emeddings, Vector stores, RAG and LLMs.
+## 🚀 Professional Summary
 
-### Skills
+Results-driven Principal Development Engineer with 6+ years of experience architecting scalable microservices and AI-integrated applications. Proven expertise in the Python ecosystem, cloud-native technologies, and LLM integrations. Specialized in transforming complex requirements into production-ready solutions for enterprise-scale applications.
 
+---
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a></p>
+## 🛠️ Technical Skills
 
-### Socials<p align="left"> <a href="https://www.github.com/chetanchoudhary" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/chetan-choudhary" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/choudharycodes" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
+**Backend Development:** Python, FastAPI, Node.js, RESTful APIs, Microservices Architecture  
+**AI/ML Integration:** LangChain, LlamaIndex, Agentic Frameworks, Vector Embeddings, Prompt Engineering  
+**Cloud & DevOps:** AWS, GCP, Azure, Docker, Kubernetes, CI/CD Pipelines  
+**Databases:** PostgreSQL, MongoDB, YugabyteDB, CockroachDB, Vector Stores (Qdrant, Milvus)  
+**Frontend:** React.js, Next.js, TypeScript, JavaScript  
+**Tools & Methods:** Git, Linux, Agile/Scrum, System Design, Event-Driven & Domain-Driven Architectures
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 💼 Professional Experience
 
-<a href="http://www.github.com/chetanchoudhary"><img src="https://github-readme-stats.vercel.app/api?username=chetanchoudhary&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="chetanchoudhary's GitHub stats" /></a>
+### Principal Development Engineer | Calsoft Inc. | Remote, India
+*June 2024 - Present*
 
-<a href="http://www.github.com/chetanchoudhary"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chetanchoudhary&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+- **Designed a production-grade, graph-based platform** for building and deploying autonomous AI agents, featuring drag-and-drop workflow composition and atomic plugin integration.
+- **Developed a multimodal Media Service** for scalable processing, uploading, and streaming of audio, video, and documents for AI consumption.
+- **Led SaaS product development** from architecture to API implementation, integrating 10+ data sources (Slack, Jira, Notion, GCS, Qdrant, Milvus) and advanced LLMs (GPT-4o, Gemini 2.5) on LlamaIndex/Llama Cloud.
+- **Built Sumologic App integrations** for multi-cloud observability across Google Cloud, Azure, and OpenTelemetry.
 
-<a href="http://www.github.com/chetanchoudhary"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=chetanchoudhary&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### Senior Software Development Engineer | Delphix | Remote, India
+*Sep 2022 - Jun 2024*
+
+- **Engineered Hyperscale Compliance product:** Architected high-efficiency microservices with FastAPI & AsyncIO for large-scale MongoDB data masking, achieving **30% faster processing**.
+- **Managed app deployment lifecycle** via Docker, Podman, Kubernetes; ensured **99.9% uptime**.
+- **Developed plugins for distributed databases** (YugabyteDB, CockroachDB) for virtual database copies, **reducing storage costs**.
+
+### Senior Development Engineer | Calsoft Inc. | Remote, India
+*Oct 2021 - Sep 2022*
+
+- **Developed Python-based HELM SDK** for Rakuten Symphony's 5G Edge, reducing Kubernetes deployment times.
+- **Created automation framework** for Intel's EMCO using Pytest, achieving **95% test coverage**.
+- **Built API-driven data scraping solution** for Dell, enabling automated competitor pricing analysis.
+
+### Development Engineer | Calsoft Inc. | Pune, India
+*Jun 2019 - Sep 2021*
+
+- **Developed time series analytics engine** for Dell, processing **100M+ data points**.
+- **Optimized PostgreSQL** for datasets **400M+ records** with advanced indexing.
+- **Implemented real-time data pipeline** for **1,000+ iDRACs** using Python multiprocessing.
+- **Created microservice template framework** with UI & API for streamlined team development.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering (B.E.)** – Computer Science and Engineering  
+RKDF University, Bhopal, Madhya Pradesh | 2015–2019  
+CGPA: 8.6
+
+---
+
+## 🏆 Key Achievements
+
+- **Open Source Contributor:** Active contributor to LlamaIndex with production deployments.
+- **Performance Optimization:** Delivered **30%+ improvements** in multiple projects.
+- **Scale Expertise:** Built systems for high data & traffic volume.
+- **AI Systems Pioneer:** Led development of enterprise automation, autonomous agent orchestration, multimodal data processing, and advanced LLM applications.
+
+**Languages:** English (Professional), Hindi (Native)
+
+---
+
+## 📊 GitHub Stats
+
+![choudharycodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=choudharycodes&show_icons=true&hide=prs,issues&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+
+- [LinkedIn](#)
+- [chetanchoudhary.dev](https://chetanchoudhary.dev)
+- [GitHub](https://github.com/choudharycodes)
+- Email: chetan.choudhary.office@gmail.com
+
+---
+
+*Thanks for visiting my profile! Feel free to connect or collaborate on exciting projects.*
